@@ -1,6 +1,13 @@
 ## REPLY OF A VIDEO
 
-__description__ rest api nodeJs and using AWS s3 Bucket
+__description__ 
+Simple rest api nodeJs and using AWS s3 Bucket without frontend.
+
+- clone this repo
+- npm install
+- create and .env 
+
+__Resources__
 
 [Video](https://www.youtube.com/watch?v=sDVRyFaoI8s)
 
@@ -10,3 +17,4 @@ __description__ rest api nodeJs and using AWS s3 Bucket
 
 
 *I just change some lines of code*
+[API REST & s3](https://blog.libproject.xyz/wp-admin/post.php?post=119&action=edit) my post about this project.
