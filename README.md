@@ -1,7 +1,7 @@
-## REPLY OF A VIDEO
+## SIMPLE REST API FOR IMAGES
 
 __description__ 
-Simple rest api nodeJs and using AWS s3 Bucket without frontend.
+Simple rest api nodeJs and using AWS s3 Bucket.
 
 - clone this repo
 - npm install
